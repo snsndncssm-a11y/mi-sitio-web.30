@@ -1,0 +1,31 @@
+body {
+    background-color: chocolate;
+}
+
+h1 {
+    color: darkred;
+    font-size: 36px;
+    text-align: center;
+}
+
+p {
+    color: darkgreen;
+    font-size: 20px;
+    text-align: center;
+}
+p {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+button {
+    background: wheat;
+    cursor: pointer;
+    border: none;
+    padding: 16px 32px;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    border-radius: 12px;
+} 
